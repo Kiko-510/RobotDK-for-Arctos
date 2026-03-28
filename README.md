@@ -1,2 +1,2 @@
 # RobotDK-for-Arctos
-hello
+First, follow the steps:https://github.com/Arctos-Robotics/RoboDK
